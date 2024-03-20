@@ -1,1 +1,9 @@
 
+
+#about{
+	display:flex;
+	justify-content:space-around;
+}
+.skill{
+	margin-top:-300px;
+}
